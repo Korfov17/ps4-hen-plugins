@@ -1,6 +1,6 @@
 # ps4-hen-plugins
 
-Plugin system for Updated PS4 Homebrew Enabler [ps4-hen](https://github.com/Scene-Collective/ps4-hen).
+Plugin system for Updated PS4 Homebrew efefEnabler [ps4-hen](https://github.com/Scene-Collective/ps4-hen).
 
 # Plugins
 
