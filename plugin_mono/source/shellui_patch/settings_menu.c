@@ -140,7 +140,7 @@ static void SetupSettingsRoot(const char* xml)
     memset(buf_fixed, 0, sizeof(buf_fixed));
     str_replace(xml,
                 "\t\t<link id=\"sandbox\" title=\"Sandbox\" file=\"Sandbox/sandbox.xml\" />\r\n",
-                "\t\t<link id=\"hen_settings\" title=\"★ HEN Settings\" file=\"hen_settings.xml\" />\r\n",
+                "\t\t<link id=\"hen_settings\" title=\"★ HEN Settings\" icon="file:///user/data/hen/shellui_data/icons/hen_settings_icon.png" file=\"hen_settings.xml\" />\r\n",
                 buf,
                 _countof(buf),
                 ADD_BEFORE);
